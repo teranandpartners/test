@@ -53,6 +53,8 @@ st.warning(
 # Información de contacto
 st.markdown("---")
 st.markdown("**Teran & Partners**"
-Mercedes Peña  
-📧 mercedes@teranandpartners.com  
-📞 +1 (305) 316 - 8909")
+Mercedes Peña  )
+st.markdown("Email: mercedes@teranandpartners.com")
+st.markdown("Tel: +1 (305) 316 - 8909")
+
+
