@@ -52,7 +52,7 @@ st.warning(
 
 # Información de contacto
 st.markdown("---")
-st.markdown("**Teran & Partners**  
+st.markdown("**Teran & Partners**"
 Mercedes Peña  
 📧 mercedes@teranandpartners.com  
 📞 +1 (305) 316 - 8909")
