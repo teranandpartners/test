@@ -52,9 +52,9 @@ st.warning(
 
 # Información de contacto
 st.markdown("---")
-st.markdown("**Teran & Partners**")
-st.markdown("Mercedes Peña")
-st.markdown("✉️ mercedes@teranandpartners.com")
+st.markdown("**Mercedes Financial Group**")
+st.markdown("Mercedes Pena")
+st.markdown("✉️ mercedes@mfgroupusa.com")
 st.markdown("📞 +1 (305) 316 - 8909")
 
 
